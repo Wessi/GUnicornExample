@@ -1,7 +1,7 @@
 # GUnicornExample (Video Link #4)
 ### **Step 1: Create and Configure a New User**
 
-It is a best practice not to use the root user for configuration.
+It is a best practice not to use the root user for configuration of servers.
 
 * **Create a new user:**
 
