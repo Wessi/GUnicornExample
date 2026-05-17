@@ -249,3 +249,4 @@ sudo ufw delete allow 8000
 7. https://www.youtube.com/watch?v=_iUi8Sy6Muw
 8. https://www.youtube.com/watch?v=dS_0eQno8i8
 
+<img width="596" height="718" alt="django gunicorn nginx and MVT" src="https://github.com/user-attachments/assets/878139e7-1c50-4498-a1ef-2f4c93eb54ae" />
