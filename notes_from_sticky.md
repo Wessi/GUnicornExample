@@ -66,10 +66,10 @@ root: P@ss4Telecloud\
 wessi: Wessi
 
 #### Bandwidth split example
-5TB=5Tx8b=40Tb[as there are exactly 8 bits(b) in 1 Byte (B)]=40x1000000Mb=40000000Mb
+5TB=5Tx8b=40Tb[as there are exactly 8 bits(b) in 1 Byte (B)]=40x1,000,000Mb=40,000,000Mb
 
 To find the speed per second, we must calculate exactly how many seconds are in a standard 30-day month: 30days = 30x1day=30x24hrs=30x24x60mins=30x24x60x60secs=2,592,000secs
 
-Speed(Mb/s)=40000000Mb/2592000s=15.43Mb/s=15.43Mbps
+Speed(Mb/s)=40,000,000Mb/2,592,000s=15.43Mb/s=15.43Mbps
 
 for 14 regions it is 15.43Mbps/14=1.1Mbps
