@@ -65,7 +65,7 @@ SG - Security Group
 root: P@ss4Telecloud\
 wessi: Wessi
 
-
+#### Bandwidth split example
 5TB=5Tx8b=40Tb[as there are exactly 8 bits(b) in 1 Byte (B)]=40x1000000Mb
 
 To find the speed per second, we must calculate exactly how many seconds are in a standard 30-day month: 30days = 30x1day=30x24hrs=30x24x60mins=30x24x60x60secs=2,592,000secs
