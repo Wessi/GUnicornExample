@@ -1,0 +1,35 @@
+ye Bider, ye Erdatam, ye Treasury... 
+
+ke IFMIS ehen ehen mereja (expenditure data-financial) enfeligalen/yasfeligal yemil be AMP requirement west bezerzer yikemet....
+
+channel 1, 2, 3, treasury projects (non financial data) teklala yegebalu
+
+beyeametu mimedebew budget yinoral, ye expenditure data demo beyeametu nw minorew yebidirm ye erdatam ye treasurim beyeametu expenditure IFMIS west yenoral... IFMIS gives annual budget (beParlama yetsedeku annual budget and ametawi wechi/expenditure demo ale) data to eGP
+
+so IFMIS west beyeametu be parlama tsedko yeteyazew budget yigebal keza demo ye ametu expenditurim yemezegebal enezih ametawi merejawoch alu mallet nw...
+
+channel 3 is abstract from gov't and MoF has no budget or expenditure data... only donors know this and they have to register....
+
+channel one (managed by MoF) is from MoF to line ministries, regions, yene Degu mallet nw...
+channel two (managed by Line Ministries) MoF wul bicha yeferaremal ... 
+woreda level demo IBEX tetekmo le le MoF channel one or channel two/line ministry demo IFMIS west yasgebalu... 
+
+channel one treatury ena channel two yemengist bedjut west lemigeba expenditure data ke IFMIS/Ibex yewesdal...
+
+Governments, NGOs, International organizations (e.g., UN, Red Cross)
+
+old frontend html/css/jquery/ajax
+
+old backend jsp/servlets/struts...
+
+IFMIS yemengist specific system newuna be parlama yetsedeke ametawi budget beyeametu mimedeb yebidrm, yeerdatam, yetreasurim, leprlama kerbo yemitsedk budget wust yegebaluna ena IFMIS west yemigebaw keza wuchi gn IFMIS west aygebam yemengist system eskehone dires.... (starting from 3:00 minute forward... in the recordings)
+
+✅ Channel 1 → Finance route (MoF → BoFED → Woreda) and BACKWARD
+✅ Channel 2 → Sector route (Ministry → Bureau → Woreda office) and BACKWARD
+✅ Channel 3 → Outside government (Donor → NGO) and BACKWARD
+
+IBEX = Integrated Budget and Expenditure System (older, legacy system)
+IFMIS = Integrated Financial Management Information System (newer, modern system)
+
+IFMIS (federal level)
+IBEX or IFMIS (region/woreda level)
