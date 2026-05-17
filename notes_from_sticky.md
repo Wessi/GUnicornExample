@@ -77,5 +77,5 @@ for 14 regions it is 15.43Mbps/14=1.1Mbps
 **https://httparchive.org/reports/page-weight**
 3000KB=3MB = 3x8Mb = 24 Mb of total data required just to display one page.\
 So, if my internet bandwidth is 1Mbps, then it will take 24Mb devided by 1Mb/s = 24Mbx(s/1Mb) = 24s.\
-if 2 users access at the same time it becomes 2x24s=48s. so too slow and need to increase **bandwidth**.
+If 2 users access at the same time it becomes 2x24s=48s. so too slow and need to increase **bandwidth**.
 
