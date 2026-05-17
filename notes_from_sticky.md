@@ -53,7 +53,7 @@ Yes. When you spin up an ECS, the system disk will have free space available (e.
 **Why You Should Use a Data Disk**\
 Independent Recovery: If your OS is corrupted, you can wipe and reformat the system disk without losing any files on your data disk.\
 
-**spin up an ECS** = launching/initializing new VS from scratch. so spin up is just when you click "Create/Launch" the cloud software allocates CPU, memory, and storage, installs the operating system, and boots it into an active state.
+**spin up an ECS** = launching/initializing new virtual server from scratch. So **spin up** is just when you click `Create/Launch`, the cloud software allocates CPU, memory, and storage, then installs the operating system, and boots it into an active state.
 
 ECS - Elastic Cloud Server\
 VPC - Virtual Private Cluod\
