@@ -19,12 +19,12 @@ System Disk: KVM_Volume_SAS | 40 GB > Upgraded to SSD
 Data Disk: KVM_Volume_SAS | 0GB
 ```
 ## **EIP:**
-`
+```
 Billing Mode: Prepaid
 Region: ET-CLOUD-AA1
 Resource Pool: OpenStack_et-global-1
 Bandwidth: 2 Mbit/s
-`	
+```	
 EIP/Public IP: 196.189.51.93
 
 P@ss4Master
