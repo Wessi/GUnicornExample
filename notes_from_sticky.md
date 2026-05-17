@@ -1,10 +1,10 @@
 https://www.ibexautoauction.com/en
 
 /etc/ssh/sshd_config:
-``
+````
 PermitRootLogin yes
 PasswordAuthentication yes
-``
+````
 #### ECS:
 
 ```
