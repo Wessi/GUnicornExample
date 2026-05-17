@@ -51,7 +51,9 @@ Requirement: The subnet CIDR must be a subset of the VPC CIDR. If your VPC is 19
 **Can I put data on the System Disk?**\
 Yes. When you spin up an ECS, the system disk will have free space available (e.g., if you choose an 80GB system disk, the OS and system files might only take up 20GB, leaving 60GB of open space). You can absolutely store personal files or databases there.\
 **Why You Should Use a Data Disk**\
-Independent Recovery: If your OS is corrupted, you can wipe and reformat the system disk without losing any files on your data disk.
+Independent Recovery: If your OS is corrupted, you can wipe and reformat the system disk without losing any files on your data disk.\
+
+**spin up an ECS** = launching/initializing new VS from scratch. so spin up is just when you click "Create/Launch" the cloud software allocates CPU, memory, and storage, installs the operating system, and boots it into an active state.
 
 ECS - Elastic Cloud Server\
 VPC - Virtual Private Cluod\
