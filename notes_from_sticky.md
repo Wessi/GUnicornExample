@@ -73,3 +73,9 @@ To find the speed per second, we must calculate exactly how many seconds are in 
 Speed(Mb/s)=40,000,000Mb/2,592,000s=15.43Mb/s=15.43Mbps
 
 for 14 regions it is 15.43Mbps/14=1.1Mbps
+
+**https://httparchive.org/reports/page-weight**
+3000KB=3MB = 3x8Mb = 24 Mb of total data required just to display one page.\
+So, if my internet bandwidth is 1Mbps, then it will take 24Mb devided by 1Mb/s = 24Mbx(s/1Mb) = 24s.\
+if 2 users access at the same time it becomes 2x24s=48s. so too slow and need to increase **bandwidth**.
+
