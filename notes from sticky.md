@@ -3,7 +3,7 @@ https://www.ibexautoauction.com/en
 PermitRootLogin yes
 PasswordAuthentication yes
 
-ECS:
+** ECS: **
 Billing Mode: Prepaid
 Region: ET-CLOUD-AA1
 Resource Pool: OpenStack_et-global-1
