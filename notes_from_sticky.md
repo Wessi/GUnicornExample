@@ -4,6 +4,8 @@ PermitRootLogin yes
 PasswordAuthentication yes
 
 ## ** ECS: **
+
+```
 Billing Mode: Prepaid
 Region: ET-CLOUD-AA1
 Resource Pool: OpenStack_et-global-1
@@ -15,7 +17,7 @@ Memory(GB): 2
 Image: Linux
 System Disk: KVM_Volume_SAS | 40 GB > Upgraded to SSD
 Data Disk: KVM_Volume_SAS | 0GB
-
+```
 ## **EIP:**
 Billing Mode: Prepaid
 Region: ET-CLOUD-AA1
