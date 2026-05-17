@@ -237,6 +237,7 @@ sudo ufw delete allow 8000
 3. Best DJango Architecture Diagram: https://link.springer.com/content/pdf/10.1186/s40708-020-00103-3.pdf
 4. https://mermaid.live/
 5. https://www.digitalocean.com/community/tutorials/how-to-set-up-django-with-postgres-nginx-and-gunicorn-on-ubuntu
+6. https://link.springer.com/content/pdf/10.1186/s40708-020-00103-3.pdf
 
 ## **Video Links:**
 1. https://www.youtube.com/watch?v=0roB7wZMLqI
