@@ -250,3 +250,10 @@ sudo ufw delete allow 8000
 8. https://www.youtube.com/watch?v=dS_0eQno8i8
 
 <img width="596" height="718" alt="django gunicorn nginx and MVT" src="https://github.com/user-attachments/assets/878139e7-1c50-4498-a1ef-2f4c93eb54ae" />
+
+The Workflow
+1.	User sends a request to your website (e.g., ://example.com).
+2.	Nginx receives it. If it's a request for an image, Nginx sends it back immediately.
+3.	If it's a request for data (like a login), Nginx forwards it to Gunicorn.
+4.	Gunicorn runs your Python code (Django/Flask), gets the result, and hands it back to Nginx.
+5.	Nginx sends the final response back to the user.
