@@ -1,6 +1,6 @@
 # GUnicornExample (Video Link #4)
 ### **Step 1: Create and Configure a New User**
-
+https://docs.djangoproject.com/en/6.0/intro/tutorial01/
 It is a best practice not to use the root user for configuration of servers.
 
 * **Create a new user:**
