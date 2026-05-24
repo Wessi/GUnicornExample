@@ -1,0 +1,118 @@
+minimize citations:
+improve problem statement: make it aligned with the RQ, main objectives and specific objectives
+submit
+
+Presentation slide preparation: prepare an elegant presentation slide for the thesis defense presentation for the attached proposal
+
+elegantly review all the sections including Abstract, and every subsection under Introduction
+
+breifly explain the research question mainly wha is feature set? in this case
+
+if there is list of acronyms then remove the expanded contentss i means if HRI is in acronym and says Human Robot Interaction then use HRI in document everywhere...
+
+61, 73, 53
+https://scite.ai/ , https://typeset.io/ , https://elicit.com/
+exit the only second screen option:
+Rephrase this sentence to be more reader-friendly in more academic style and remove unecessary punctuations and restrain from using mostly used language model generated words. 
+1. ignore old papers from main paper but leave for now
+
+when running python manage.py makemigrations why do i need to specify apps is it possible to detect all apps  rather than specifying app names after makemigrations text
+allow_syndb
+
+355742109888253
+355742109888261
+https://samfw.com/
+1. works on 64 bit only (I tested on both)
+2. why do we have to list the name of apps why don't you list all available already here?
+3. Open the settings.py file and replace - in which directory? where?
+there is a very important command you skipped without it migrations are impossible "python manage.py migrate"
+
+(p64env) PS C:\Users\hp\PycharmProjects\Mofedmain>  python manage.py createsuperuser
+Email: adminuser@gmail.com
+OperationalError: no such table: accounts_userprofile
+
+
+steps: Chemma123
+1. python64bit.exe -m venv ~/.aiml/p64env
+2. clone git repo
+3. install requirements/pip install -r requirements.txt
+4. delete db.sqlite3 or what every SQLite db file/(del db.sqlite3 - Win, rm db.sqlite3-Linx/Mac and python manage.py flush (Prompt=yes, Enter)
+5. delete any existing migrations file from all app folders
+6. python manage.py makemigrations -- create migrations (py manage.py makemigrations about_us accounts blogs core dashboard documents news suppliers task_manager vacancies visit_counter)
+
+https://y2down.cc/en/
+python manage.py makemigrations 
+about_us 
+accounts 
+blogs 
+core 
+dashboard 
+documents 
+news 
+suppliers 
+task_manager 
+vacancies 
+visit_counter
+
+
+Arat Kilo Basha Wolde Chilot Arada Subcity, Woreda 09 House No. B1317
+
+7. python manage.py migrate -- apply migrations and you will see everything OK if things go write
+8. python manage.py createsuperuser
+    Email: kiyako1991@gmail.com
+    First name: Wesagn
+    Last name: Dawit
+    Password: Wessi@123
+    Password (again): Wessi@123
+9. python manage.py runserver -- visit http://127.0.0.1:8000/ in your browser
+
+Thank you for sharing your Django configuration settings. It looks like you have a comprehensive setup with multiple Django apps and additional configurations for things like email, static and media files, internationalization, and Django CMS.
+
+Since you've successfully reset and reapplied your migrations, here are some general next steps to consider based on your configuration:
+
+Test Your Application:
+With your database schema now aligned with your models, ensure that your application runs smoothly. Check each functionality, especially those relying on the database.
+
+Create Superuser (if not done yet):
+If your database was reset and you need access to Django admin, create a superuser account:
+
+bash
+Copy code
+python manage.py createsuperuser
+Follow the prompts to complete the process.
+
+Run the Development Server:
+Start your Django development server to test the application in a browser:
+
+bash
+Copy code
+python manage.py runserver
+Then, visit http://127.0.0.1:8000/ in your browser to see if your application loads properly.
+
+Check Static and Media Files Configuration:
+Since your settings include configurations for static and media files, make sure they are being served correctly. This is especially important in a development environment where Django serves these files.
+
+Test Email Functionality:
+You have email settings configured. Ensure that the email functionality, such as password reset or account verification emails, works as expected.
+
+Review Internationalization (i18n) and Localization (l10n):
+Your project has settings for multiple languages and locales. Test to ensure that the translation and language switching functionalities are working correctly.
+
+CMS Functionality:
+Since you're using Django CMS, check if all CMS-related features are functioning properly. This includes page creation, editing, plugins, etc.
+
+Check Third-Party Integrations:
+Review any third-party services or integrations (like Django CMS plugins, Rosetta for translations) to ensure they are correctly configured and working as intended.
+
+Security Checks:
+Make sure all security settings (like DEBUG = False for production, CSRF_COOKIE_SECURE, X_FRAME_OPTIONS) are appropriately set for your deployment environment.
+
+Performance Optimization:
+Consider implementing caching, database optimizations, and other performance enhancements as needed.
+
+Prepare for Deployment:
+If you are planning to deploy, review your deployment settings and process. Ensure you have the correct settings for your production environment.
+
+Remember to frequently commit your changes to version control (if you're using one) and maintain backups of your database, especially when making significant changes or updates.
+
+ETMOFEC-COPCU-NCB-321544-CS-QCBS 
