@@ -37,7 +37,7 @@ vacancies
 visit_counter
 
 
-Arat Kilo Basha Wolde Chilot Arada Subcity, Woreda 09 House No. B1317
+Arat Kilo Basha Wolde Chilot Arada Subcity, Woreda 09 House No. B1317 B0518
 
 7. python manage.py migrate -- apply migrations and you will see everything OK if things go write
 8. python manage.py createsuperuser
