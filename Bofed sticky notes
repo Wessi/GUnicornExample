@@ -22,7 +22,6 @@ steps: Chemma123
 5. delete any existing migrations file from all app folders
 6. python manage.py makemigrations -- create migrations (py manage.py makemigrations about_us accounts blogs core dashboard documents news suppliers task_manager vacancies visit_counter)
 
-https://y2down.cc/en/
 python manage.py makemigrations 
 about_us 
 accounts 
@@ -36,9 +35,6 @@ task_manager
 vacancies 
 visit_counter
 
-
-Arat Kilo Basha Wolde Chilot Arada Subcity, Woreda 09 House No. B1317 B0518
-
 7. python manage.py migrate -- apply migrations and you will see everything OK if things go write
 8. python manage.py createsuperuser
     Email: kiyako1991@gmail.com
@@ -48,7 +44,7 @@ Arat Kilo Basha Wolde Chilot Arada Subcity, Woreda 09 House No. B1317 B0518
     Password (again): Wessi@123
 9. python manage.py runserver -- visit http://127.0.0.1:8000/ in your browser
 
-Thank you for sharing your Django configuration settings. It looks like you have a comprehensive setup with multiple Django apps and additional configurations for things like email, static and media files, internationalization, and Django CMS.
+It looks like you have a comprehensive setup with multiple Django apps and additional configurations for things like email, static and media files, internationalization, and Django CMS.
 
 Since you've successfully reset and reapplied your migrations, here are some general next steps to consider based on your configuration:
 
@@ -97,4 +93,8 @@ If you are planning to deploy, review your deployment settings and process. Ensu
 
 Remember to frequently commit your changes to version control (if you're using one) and maintain backups of your database, especially when making significant changes or updates.
 
+
+
 ETMOFEC-COPCU-NCB-321544-CS-QCBS 
+https://y2down.cc/en/
+Arat Kilo Basha Wolde Chilot Arada Subcity, Woreda 09 House No. B1317 B0518
