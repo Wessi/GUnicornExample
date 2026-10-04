@@ -22,7 +22,8 @@ steps: Chemma123
 5. delete any existing migrations file from all app folders
 6. python manage.py makemigrations -- create migrations (py manage.py makemigrations about_us accounts blogs core dashboard documents news suppliers task_manager vacancies visit_counter)
 
-python manage.py makemigrations 
+command:
+`python manage.py makemigrations 
 about_us 
 accounts 
 blogs 
@@ -33,7 +34,7 @@ news
 suppliers 
 task_manager 
 vacancies 
-visit_counter
+visit_counter`
 
 7. python manage.py migrate -- apply migrations and you will see everything OK if things go write
 8. python manage.py createsuperuser
